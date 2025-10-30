@@ -1,6 +1,6 @@
 student_name=char(input("Enter your name : "))
 student_age=int(input("Enter student age : "))
-student_usn=input("Enter student usn : "))
+student_usn=input("Enter student usn : ")
 student_address=char(input("enter address : "))
 print(f"student name is {student_name}")
 print(f"student age is {student_age}")
